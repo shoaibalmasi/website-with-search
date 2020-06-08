@@ -1,0 +1,51 @@
+
+body{
+    background-color: slategrey;
+    padding: 10px;
+}
+.main{
+    font-family: "B Nazanin";
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(170, 175, 170);
+    height: 450px;
+    
+}
+.parent{
+    width: 400px;
+    height: 400px;
+    background-color: rgb(170, 175, 170);
+    overflow: hidden;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px rgb(128, 126, 126);
+}
+.pro-img{
+    width: 100%;
+    height: 100%;
+}
+.info{
+    width: 200px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-end;
+    /* flex-shrink: ; */
+    padding: 10px;
+    /* background-color: chartreuse; */
+    /* direction: rtl; */
+
+}
+p{
+    font-weight: bold;
+    font-size: 20px;
+    
+}
+.card-img{
+    width: 100%;
+    height: 50%;
+}
+.card-body{
+    text-align: right;
+}

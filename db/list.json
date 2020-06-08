@@ -1,0 +1,50 @@
+[
+    {
+        "name": "آدیداس",
+        "color": "قرمز",
+        "size": "41",
+        "material" : "چرم",
+        "src" : "1.jpg",
+        "url":"product1"
+    },
+    {
+        "name": "پوما",
+        "color": "سبز",
+        "size": "40",
+        "material" : "کتان",
+        "src" : "2.jpg",
+        "url":"product2"
+    },
+    {
+        "name": "نایک",
+        "color": "سفید",
+        "size": "43",
+        "material" : "پلاستیکی",
+        "src" : "3.jpg",
+        "url":"product3"
+    },
+    {
+        "name": "تنتاک",
+        "color": "مشکی",
+        "size": "40",
+        "material" : "چرم مصنوعی",
+        "src" : "4.jpg",
+        "url":"product4"
+    },
+    {
+        "name": "تک",
+        "color": "سبز",
+        "size": "43",
+        "material" : "پارچه ای",
+        "src" : "5.jpg",
+        "url":"product5"
+    },
+    {
+        "name": "فیلا",
+        "color": "سفید",
+        "size": "44",
+        "material" : "پلاستیکی",
+        "src" : "6.jpg",
+        "url":"product6"
+    }
+]

@@ -1,0 +1,17 @@
+
+    <div class="col-12 col-sm-6 col-md-4 col-lg-4">
+            <div class="card  mt-4">
+                <img src="http://localhost:8060/images/<%= shoes.src %>" class="card-img-top card-img" alt="...">
+                <div class="card-body">
+                    <h5 class="card-title"><%= shoes.name %></h5>
+                    <p class="card-text">رنگ: <%= shoes.color %></p>
+                    <p class="card-text">سایز:  <%= shoes.size %></p>
+                    <p class="card-text">جنس:  <%= shoes.material %></p>
+                </div>
+
+                <div class="card-body card-main">
+                    <a href="products/<%= shoes.url %>" name="html" class="card-link btn btn-success" >خرید</a>
+                </div>
+            </div>
+
+        </div>
